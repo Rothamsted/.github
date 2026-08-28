@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RothResearch/.github/main/profile/logo-lockup-dark.png">
-  <img src="https://raw.githubusercontent.com/RothResearch/.github/main/profile/logo-lockup.png" alt="Rothamsted Research" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rothamsted/.github/main/profile/logo-lockup-dark.png">
+  <img src="https://raw.githubusercontent.com/Rothamsted/.github/main/profile/logo-lockup.png" alt="Rothamsted Research" width="440">
 </picture>
 
 ### Research software, analysis code and data tools from Rothamsted Research
@@ -26,7 +26,7 @@ Small, single-purpose repositories age better than one large one. If in doubt, p
 
 ## Publishing your code here
 
-**1. Ask for access.** Open an issue on [this repository](https://github.com/RothResearch/.github/issues), or contact Mark [@markat676](https://github.com/markat676). Tell us the project and who needs to be on it.
+**1. Ask for access.** Open an issue on [this repository](https://github.com/Rothamsted/.github/issues), or contact Mark [@markat676](https://github.com/markat676). Tell us the project and who needs to be on it.
 
 **2. Create your repository.** Name it for what it does, lowercase and hyphenated — `wheat-yield-model`, not `Project1`. Start private if the work is unpublished; make it public when you are ready.
 
@@ -69,7 +69,7 @@ Add a [`CITATION.cff`](https://citation-file-format.github.io/) to the root of y
 
 ## Help
 
-- **Access, or a new repository** — open an issue on [this repository](https://github.com/RothResearch/.github/issues)
+- **Access, or a new repository** — open an issue on [this repository](https://github.com/Rothamsted/.github/issues)
 - **Research data management** — the [ELIXIR RDMkit](https://rdmkit.elixir-europe.org/) is a good starting point
 - **Good practice in research software** — the [Software Sustainability Institute](https://www.software.ac.uk/) guides are worth the read
 

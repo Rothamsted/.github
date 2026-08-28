@@ -1,10 +1,10 @@
 # .github
 
-Organisation-level configuration for [RothResearch](https://github.com/RothResearch).
+Organisation-level configuration for [Rothamsted](https://github.com/Rothamsted).
 
 | Path | What it is |
 |---|---|
-| `profile/README.md` | The landing page shown at [github.com/RothResearch](https://github.com/RothResearch) |
+| `profile/README.md` | The landing page shown at [github.com/Rothamsted](https://github.com/Rothamsted) |
 | `profile/logo-lockup.png` | Rothamsted Research logo, light backgrounds |
 | `profile/logo-lockup-dark.png` | Same lockup with a white wordmark, for GitHub's dark theme |
 | `profile/avatar-roundel.png` | 460×460 roundel used as the organisation avatar |
