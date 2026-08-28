@@ -26,7 +26,7 @@ Small, single-purpose repositories age better than one large one. If in doubt, p
 
 ## Publishing your code here
 
-**1. Ask for access.** Open an issue on [this repository](https://github.com/RothResearch/.github/issues), or contact [@Arnedeklerk](https://github.com/Arnedeklerk). Tell us the project and who needs to be on it.
+**1. Ask for access.** Open an issue on [this repository](https://github.com/RothResearch/.github/issues), or contact Mark [@markat676](https://github.com/markat676). Tell us the project and who needs to be on it.
 
 **2. Create your repository.** Name it for what it does, lowercase and hyphenated — `wheat-yield-model`, not `Project1`. Start private if the work is unpublished; make it public when you are ready.
 
