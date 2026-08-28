@@ -36,7 +36,7 @@ Small, single-purpose repositories age better than one large one. If in doubt, p
 
 ## What a good repository looks like
 
-| | |
+| Include | Why |
 |---|---|
 | `README.md` | What it does, how to install and run it, expected inputs and outputs, a contact |
 | `LICENSE` | Without one, nobody can legally reuse your work — including Rothamsted |
